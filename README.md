@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ayushroy0108@gmail.com**
 
-- 📄 Know about my experiences [https://ayushxod.github.io/Portfolio/](https://drive.google.com/file/d/1HdVEqoNHblwo11NRkSxlMPkS_vAI9etY/view?usp=drive_link)
+- 📄 Know about my experiences [Portfolio](https://ayushxod.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
